@@ -1,0 +1,4 @@
+.\src\bitSlice.vhd
+.\src\main.vhd
+.\src\TestBench\serial_playback_TB.vhd
+.\src\TestBench\animation_TB.vhd

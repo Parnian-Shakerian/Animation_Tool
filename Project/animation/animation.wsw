@@ -1,0 +1,15 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/bitSlice.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/main.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/TestBench/animation_TB.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/TestBench/serial_playback_TB.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/TestBench/animation_TB_runtest.do|]
+TemplateId=6
+tab=lu

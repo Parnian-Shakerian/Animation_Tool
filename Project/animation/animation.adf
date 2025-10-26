@@ -1,0 +1,42 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=animation
+[Library]
+animation=.\animation\animation.lib
+[$LibMap$]
+animation=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[HierarchyViewer]
+HierarchyInformation=tb_animation|behavioral|0
+ShowHide=ShowTopLevel
+Selected=
+[Files]
+/bitSlice.vhd=-1
+/Main.vhd=-1
+/final.asdb=-1
+/final.awc=-1
+TestBench/animation_TB.vhd=-1
+TestBench/animation_TB_runtest.do=-1
+TestBench/serial_playback_TB.vhd=-1
+TestBench/serial_playback_TB_runtest.do=-1
+[Files.Data]
+.\src\bitSlice.vhd=VHDL Source Code
+.\src\Main.vhd=VHDL Source Code
+.\src\final.asdb=Accelerated Waveform File
+.\src\final.awc=Accelerated Waveform Configuration
+.\src\TestBench\animation_TB.vhd=VHDL Test Bench
+.\src\TestBench\animation_TB_runtest.do=Macro
+.\src\TestBench\serial_playback_TB.vhd=VHDL Test Bench
+.\src\TestBench\serial_playback_TB_runtest.do=Macro
+[Groups]
+TestBench=1

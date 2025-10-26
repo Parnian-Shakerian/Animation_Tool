@@ -1,0 +1,9 @@
+22
+~E 1 "../src/Main.vhd" 19 animation
+~A 1 "../src/Main.vhd" 32 Behavior
+~E 1 "../src/bitSlice.vhd" 7 serial_playback
+~A 1 "../src/bitSlice.vhd" 18 behavioral
+~E 1 "../src/TestBench/animation_TB.vhd" 7 tb_animation
+~A 1 "../src/TestBench/animation_TB.vhd" 10 behavioral
+~E 1 "../src/TestBench/serial_playback_TB.vhd" 5 tb_serial_playback
+~A 1 "../src/TestBench/serial_playback_TB.vhd" 8 behavioral

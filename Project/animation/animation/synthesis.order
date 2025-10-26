@@ -1,0 +1,3 @@
+i<>.\src\main.vhd
+i<>.\src\TestBench\serial_playback_TB.vhd
+i<>.\src\TestBench\animation_TB.vhd

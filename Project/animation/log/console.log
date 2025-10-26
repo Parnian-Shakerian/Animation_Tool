@@ -1,0 +1,54 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work animation -2002  $dsn/src/bitSlice.vhd $dsn/src/Main.vhd $dsn/src/TestBench/animation_TB.vhd $dsn/src/TestBench/serial_playback_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: F:/cad/Project/animation/src/bitSlice.vhd
+# Compile Entity "serial_playback"
+# Compile Architecture "behavioral" of Entity "serial_playback"
+# File: F:/cad/Project/animation/src/Main.vhd
+# Compile Package "types"
+# Compile Entity "animation"
+# Compile Architecture "Behavior" of Entity "animation"
+# File: F:/cad/Project/animation/src/TestBench/animation_TB.vhd
+# Compile Entity "tb_animation"
+# Compile Architecture "behavioral" of Entity "tb_animation"
+# File: F:/cad/Project/animation/src/TestBench/serial_playback_TB.vhd
+# Compile Entity "tb_serial_playback"
+# Compile Architecture "behavioral" of Entity "tb_serial_playback"
+# Warning: ELAB1_0026: TestBench/serial_playback_TB.vhd : (34, 0): There is no default binding for component "serial_playback". (Generic "n" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  63.0 [ms]
+acom -O3 -e 100 -work animation -2002  $dsn/src/bitSlice.vhd $dsn/src/Main.vhd $dsn/src/TestBench/animation_TB.vhd $dsn/src/TestBench/serial_playback_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: F:/cad/Project/animation/src/bitSlice.vhd
+# Compile Entity "serial_playback"
+# Compile Architecture "behavioral" of Entity "serial_playback"
+# File: F:/cad/Project/animation/src/Main.vhd
+# Compile Package "types"
+# Compile Entity "animation"
+# Compile Architecture "Behavior" of Entity "animation"
+# File: F:/cad/Project/animation/src/TestBench/animation_TB.vhd
+# Compile Entity "tb_animation"
+# Compile Architecture "behavioral" of Entity "tb_animation"
+# File: F:/cad/Project/animation/src/TestBench/serial_playback_TB.vhd
+# Compile Entity "tb_serial_playback"
+# Compile Architecture "behavioral" of Entity "tb_serial_playback"
+# Warning: ELAB1_0026: TestBench/serial_playback_TB.vhd : (34, 0): There is no default binding for component "serial_playback". (Generic "n" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  78.0 [ms]
+acom -O3 -e 100 -work animation -2002  $dsn/src/bitSlice.vhd $dsn/src/Main.vhd $dsn/src/TestBench/animation_TB.vhd $dsn/src/TestBench/serial_playback_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: F:/cad/Project/animation/src/bitSlice.vhd
+# Compile Entity "serial_playback"
+# Compile Architecture "behavioral" of Entity "serial_playback"
+# File: F:/cad/Project/animation/src/Main.vhd
+# Compile Package "types"
+# Compile Entity "animation"
+# Compile Architecture "Behavior" of Entity "animation"
+# File: F:/cad/Project/animation/src/TestBench/animation_TB.vhd
+# Compile Entity "tb_animation"
+# Compile Architecture "behavioral" of Entity "tb_animation"
+# File: F:/cad/Project/animation/src/TestBench/serial_playback_TB.vhd
+# Compile Entity "tb_serial_playback"
+# Compile Architecture "behavioral" of Entity "tb_serial_playback"
+# Warning: ELAB1_0026: TestBench/serial_playback_TB.vhd : (34, 0): There is no default binding for component "serial_playback". (Generic "n" is not on the entity).
+# Compile success 0 Errors 1 Warnings  Analysis time :  78.0 [ms]
+# Waveform file 'F:/cad/Project/animation/src/final.awc' connected to 'F:/cad/Project/animation/src/final.asdb'.

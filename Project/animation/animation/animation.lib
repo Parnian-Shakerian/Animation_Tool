@@ -1,0 +1,68 @@
+timestamp=1688410309707
+
+[~A]
+ModifyID=22
+Version=74
+
+[~MFT]
+0=8|0animation.mgf|31047|21144
+1=8|1animation.mgf|135544|129793
+3=6|3animation.mgf|43171|41523
+
+[animation]
+A/behavior=A/Behavior 21|../src/Main.vhd|32|1*132057
+I=0*4083
+I/behavior=I/Behavior 0*30398
+M=11|2|vef|1688377054032|../src/Main.vhd|0*3604*0x3750978f3fd271730163da7bf89157da5c316287|0*4005*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavior=M/Behavior 21|2|vef|1688410309666|../src/Main.vhd|0*20050*0xa095cb77bf0ae863b35467f29ff5987dd96b229f|0*20588*0x20116f55b147878295aeff36dce7fc50
+R=../src/Main.vhd|19
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|c4853e4d2831084007e1d5a3cb48cb8e030c5f4de3ffa3c97f58c5528f1d791371daaf498fb27a163c45398348a7f1be
+Version/behavior=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|f9bccf16e2dce5a640f0ad5e8eaa0283e08d679eaf1bc9de9439630905b37e5fcf51d736161a722533e3518bda8c7779
+
+[serial_playback]
+A/behavioral=21|../src/bitSlice.vhd|18|1*130563
+BinW64/behavioral=3*41523
+I=0*1798
+I/behavioral=0*30104
+M=11|2|vef|1688377053997|../src/bitSlice.vhd|0*1299*0xb46a24318e7a0444d1fce49ee0e36e9ed17fe81c|0*1710*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=21|2|vef|1688410309643|../src/bitSlice.vhd|0*18749*0x5700853c8d5fda191fc21e6ac49c90de238577d5|0*19654*0x20116f55b147878295aeff36dce7fc50
+R=../src/bitSlice.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|b302cb66a279851a2203183b02fcc5a8a16dc53b24c833eaa2f1dfddca9be32dff09e59bf4dc89d2aa9b0edfdf0ca6ad
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff46fa28986df3c65a7d8ecb86b8c8f871f
+
+[tb_animation]
+A/behavioral=21|../src/TestBench/animation_TB.vhd|10|1*133854
+BinW64/behavioral=3*42474
+I=0*7029
+I/behavioral=0*30721
+M=11|2|vef|1688377106129|../src/TestBench/animation_TB.vhd|0*6675*0xce8e365011ba51e3e9f5337a1afeaf6f8cfab1d7|0*6930*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=21|2|vef|1688410309675|../src/TestBench/animation_TB.vhd|0*7309*0x56bf0b1a7fa12041ac15813c1dbd84f10177b8b9|0*8405*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/animation_TB.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|e7e876fe4619129868d6891a4c5b23eeb42a34bc19db3e4f49449abb97b4e57ccbf5ff27e6fb754c8d68d3433453c424
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4e4437c3a0d7eb4841f6d169c1cf8b7fd
+
+[tb_serial_playback]
+A/behavioral=21|../src/TestBench/serial_playback_TB.vhd|8|1*135544
+BinW64/behavioral=3*43171
+I=0*12167
+I/behavioral=0*31047
+M=11|2|vef|1688377299187|../src/TestBench/serial_playback_TB.vhd|0*11815*0xa5fe680c830060f826a539132cfeab76bc95a7cd|0*12056*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=21|2|vef|1688410309694|../src/TestBench/serial_playback_TB.vhd|0*12419*0xc023f0e9cc9717865fdd8e4b0cfc1cd4c8c68493|0*13841*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/serial_playback_TB.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|81ab2a1d82cba41815bf2dbc4a05f0b25dc9517306a7439d135601228ed87bddd559da06f06fa6e505a27ffe07f089a3
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff45326bc3a972a539747db1cea7fe340e6
+
+[types]
+E=1*0
+I=0*848
+M=3|2|vef|1688377053962|../src/Main.vhd|0*462*0xbdd353b22ecdf89d0efbc320635875b0c7f8e884|0*774*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/Main.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|d73d9b6576ff151f7c18a7857046f017b1faa701f7e5eaf75fd9d482f77220ec
+
+[~U]
+animation=11|0*3382|
+serial_playback=11|0*1047|
+tb_animation=11|0*6545|
+tb_serial_playback=11|0*11673|
+types=3|0*0|0*200
+

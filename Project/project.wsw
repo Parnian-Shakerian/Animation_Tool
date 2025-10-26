@@ -1,0 +1,13 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/bitSlice.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/Main.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\animation\src/TestBench/animation_TB.vhd|]
+TemplateId=0
+tab=lu
+[OPENDOC|Aldec.WaveFormASDB.7|.\animation\src/final.awc|]
+TemplateId=1
+ActiveDocument=1
+tab=lu
